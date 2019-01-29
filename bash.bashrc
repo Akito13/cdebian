@@ -9,7 +9,7 @@
 
 #------------ Begin Alias
 
-#------ Generica
+#------ Generica #id044#
         alias s='cd ~/src ' #id002#
         alias h='cd ~ ' #id003#
         alias r='cd / ' #id004#
@@ -53,9 +53,9 @@
         alias sauce='source /etc/bash.bashrc ; source ~/.bashrc ' #id042#
 
 
-#------ General
+#------ General #id064#
         alias py='python ' #id043#
-        alias py2='python2 ' #id044#
+        alias py2='python2 ' #id063#
         alias py3='python3 ' #id045#
         alias gpg='gpg --verbose ' #id046#
         alias r-crc32='rhash --crc32 -v ' #id047#
